@@ -1,54 +1,81 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:1e293b,100:334155&text=Varshith&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Varshith</h1>
 
 <h3 align="center">
-AI & Machine Learning Enthusiast • Data Science Learner • Python Developer
+AI & Machine Learning Enthusiast • Python Developer • Data Science Explorer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;Turning+Data+into+Insights;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=475569&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Python+Developer;Data+Science+Explorer;Transforming+Data+into+Insights;Always+Learning+Something+New"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🔭 Currently exploring *Machine Learning & AI*
-- 🌱 Learning *Advanced ML Models and Deep Learning*
-- 📊 Passionate about *Data Analysis and Predictive Modeling*
-- 💡 Interested in solving real-world problems using data
-- ⚡ Fun fact: Coffee + Python = Productivity ☕
+- 🎓 Passionate about Artificial Intelligence and Machine Learning
+- 🐍 Python Developer with a strong interest in Data Science
+- 📊 Love extracting meaningful insights from raw datasets
+- 🌱 Currently learning Deep Learning & Model Deployment
+- 💡 I enjoy solving real-world problems using data-driven solutions
 
 ---
 
-## 💻 Tech Stack
+# 🚀 Current Focus
 
-### Languages
+- 🤖 Building Machine Learning Projects
+- 📈 Improving Data Visualization skills
+- 🧠 Learning Deep Learning architectures
+- ⚙️ Writing scalable and clean Python code
+- 📚 Exploring modern AI frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,react,git" />
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,react,git,vscode&perline=8"/>
+
 </p>
 
-### AI / Data Science
+### 📊 Data Science & Machine Learning
 
-- 🤖 Machine Learning
-- 📈 Exploratory Data Analysis (EDA)
-- 🧹 Data Cleaning
-- ⚙️ Feature Engineering
-- 🔄 Data Transformation
-- 🏷️ Categorical Encoding
-- 📊 Model Evaluation
-
----
-
-## 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,react" />
-</p>
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Transformation
+- Feature Engineering
+- Categorical Encoding
+- Model Evaluation
+- Machine Learning
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 📈 House Price Prediction | Regression model using feature engineering |
+| ❤️ Heart Disease Prediction | Machine learning classification project |
+| 🎬 Movie Recommendation System | Recommendation engine using similarity techniques |
+| 📊 Customer Churn Analysis | Complete EDA + predictive modeling |
+
+---
+
+# 📚 Currently Learning
+
+- Deep Learning
+- Neural Networks
+- Computer Vision
+- Model Deployment
+- MLOps
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -60,7 +87,7 @@ AI & Machine Learning Enthusiast • Data Science Learner • Python Developer
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -70,7 +97,7 @@ AI & Machine Learning Enthusiast • Data Science Learner • Python Developer
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -80,26 +107,36 @@ AI & Machine Learning Enthusiast • Data Science Learner • Python Developer
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 💭 Random Dev Quote
 
-<p>
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -108,6 +145,16 @@ AI & Machine Learning Enthusiast • Data Science Learner • Python Developer
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
+
+<p align="center">
+<i>"Every dataset tells a story. My goal is to uncover it."</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:1e293b,100:334155"/>
+</p>
+
+]
